@@ -21,7 +21,7 @@ public class Archivo02
     {
 
        String linea = br.readLine(); 
-       while(linea != null)
+       while(linea != null) 
        {
           System.out.println(linea);
           linea = br.readLine();
